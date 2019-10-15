@@ -1,0 +1,29 @@
+{
+  "name": "node-run-listener",
+  "version": "1.0.0",
+  "description": "node run listener",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubJian/node-run-listener.git"
+  },
+  "keywords": [
+    "listen"
+  ],
+  "author": "xiaows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubJian/node-run-listener/issues"
+  },
+  "homepage": "https://github.com/GitHubJian/node-run-listener#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "ip": "^1.1.5"
+  }
+}
