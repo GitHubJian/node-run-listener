@@ -6,6 +6,6 @@ const app = new koa()
 
 app.listen(port, function() {
   running(function() {
-    console.log('123123')
+    process.exit()
   })
 })
